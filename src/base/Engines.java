@@ -12,16 +12,19 @@ public class Engines {
         }
 
         public long getModelNumber() {
+
             return modelNumber;
         }
 
 
         public int getMaxPower() {
+
             return maxPower;
         }
 
 
         public int getMaxRpm() {
+
             return maxRpm;
         }
 

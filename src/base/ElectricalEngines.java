@@ -26,6 +26,7 @@ public class ElectricalEngines extends Engines{
         System.out.println("Model Number ="+getModelNumber());
         System.out.println("Voltage ="+getVoltage());
         System.out.println("Battery type ="+getBatteryType());
+
     }
 
 }
